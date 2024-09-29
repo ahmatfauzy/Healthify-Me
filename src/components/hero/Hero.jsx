@@ -21,7 +21,7 @@ const Hero = () => {
               </span>
             </h1>
             <p className='mx-auto mb-6 w-72 text-sm text-slate-400 sm:w-auto sm:text-base'>
-              Biarkan kami membuat kalkulator kesehatan untuk membantu solusi Anda untuk hidup sehat. Pilih resep segar
+              Biarkan kami membuat HealthifyMe untuk membantu solusi Anda untuk hidup sehat. Pilih resep segar
               dan sehat
             </p>
             <a href='/kalkulator-kalori' className='mx-auto block md:mx-0'>

@@ -9,10 +9,10 @@ const Footer = () => {
       <div className='container mx-auto px-4 py-20 sm:px-0 sm:py-40'>
         <div className='grid w-full justify-between sm:grid-cols-3'>
           <div className='mb-7'>
-            <h1 className='mb-5 text-xl font-semibold sm:mb-10 sm:text-2xl md:text-3xl'>Kalkulator Kesehatan</h1>
+            <h1 className='mb-5 text-xl font-semibold sm:mb-10 sm:text-2xl md:text-3xl'>HealthifyMe</h1>
             <p className='text-slate-200'>
               Kami adalah tim yang berdedikasi untuk membantu Anda menjaga kesehatan Anda dengan memberikan alat yang
-              dapat membantu Anda menghitung berbagai aspek kesehatan Anda. Kalkulator kesehatan kami dirancang untuk
+              dapat membantu Anda menghitung berbagai aspek kesehatan Anda. HealthifyMe kami dirancang untuk
               memberikan informasi yang akurat dan bermanfaat bagi Anda.
             </p>
           </div>
